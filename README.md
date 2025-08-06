@@ -1,7 +1,4 @@
 # 📚 ShelfSense
-
-**AI-Powered, Emotion-Aware Book Recommender Web App**  
-
 ---
 
 ## 🔍 Overview
